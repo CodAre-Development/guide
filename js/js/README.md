@@ -4,5 +4,5 @@ description: >-
   yerdir
 ---
 
-# Javascript Kategorisine Hoş geldin
+# Javascript Kategorisine Hoş geldinn
 
