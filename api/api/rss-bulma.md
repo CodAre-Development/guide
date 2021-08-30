@@ -53,7 +53,7 @@ Başarılı şekilde bulundu
 Rss bulamayınca veya hata oluştuğunda
 {% endapi-method-response-example-description %}
 
-```
+```javascript
 {
   "status": false,
   "message": "Hata oluştu"

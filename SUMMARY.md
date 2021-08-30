@@ -45,6 +45,7 @@
   * [Çerçeve api](api/api/cerceve-api.md)
   * [Google Görsel Arama Api](api/api/google-goersel-arama-api.md)
   * [Rss Bulma](api/api/rss-bulma.md)
+  * [Rss okuma](api/api/rss-okuma.md)
 
 ## Python
 
