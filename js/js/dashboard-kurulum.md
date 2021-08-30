@@ -30,7 +30,7 @@ Anasayfa 229. satır siyah yazının sonunda --&gt; ekleyin
 2-\)htmllerde burada vortexbot.org gibi site ismi yazar onları kendininizkiyle değişin.  
 /kullanıcı /panel /komutlar kalıcak şeklinde hepsine yapın
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2818%29%20%282%29.png)
 
 3-\)Arkadaşlar DESTEK SUNUCU sorunu için o komutun üst kısmında guild id olucaktır. Oraya kendi DESTEK SUNUCU ID sini girin. Sorununuz çözülecektir.  
   
@@ -38,7 +38,7 @@ Anasayfa 229. satır siyah yazının sonunda --&gt; ekleyin
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 
-![](../../.gitbook/assets/image%20%2815%29%20%281%29.png)
+![](../../.gitbook/assets/image%20%2815%29%20%282%29%20%281%29.png)
 
 5-\)Resim değiştirmek isteyen
 
